@@ -1,8 +1,15 @@
-# Project Name
+# Project Name : Guess-Who
 
-Replace this readme with your own information about your project.
+The board with characters should be generated when the website is loaded.
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+✓ A randomly selected person should be set as the secret when the game starts.
+
+✓ You should be able to select questions to ask about the people and filter the board based on those questions.
+
+✓ You should also give the player feedback with alerts
+
+✓ You should be able to guess the secret person and get an answer if it's correct or not.
+
 
 ## The problem
 
